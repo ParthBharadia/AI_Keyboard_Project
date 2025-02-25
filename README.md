@@ -38,3 +38,5 @@ This project implements a **gesture-based virtual keyboard** using **OpenCV, Med
 ```bash
 git clone https://github.com/your-username/virtual-keyboard.git
 cd virtual-keyboard
+
+https://github.com/user-attachments/assets/52165ba6-6925-40e5-be70-be9a64f663c6
